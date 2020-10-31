@@ -59,6 +59,8 @@ return (
         <input type="submit" value="Login"/>
       </form>
     </div>
+    )
+}
 
 ReactDOM.render(
   <Home />,
